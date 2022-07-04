@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://pasteboard.co/QRyvVKUq0Not.svg" alt="Shin" />
+  <img src="https://github.com/shinthedev/shinthedev/blob/9c42960e2301750eb198adb932c8b18750f6c70e/Shin%20the%20dev-2.svg" alt="Shin" />
 </h1>
 
 ## Hey! 👋
