@@ -3,12 +3,10 @@
 </h1>
 
 ## Hey! 👋
-I'm Shin, a 25 years old web developer from Vermont.
-
-- 🧭 Founder at [@Editions]()
+I'm Shin, a 25 years old web developer
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Rust, Haskell
+- 👨‍💻 TypeScript, JavaScript, Rust, Move
 - ⚙️ Svelte
 - 👁️ CSS, Tailwind, DaisyUI
 - 💽 Ethereum, Near, Cardano
